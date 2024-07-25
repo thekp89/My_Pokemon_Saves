@@ -1,4 +1,4 @@
-### Pokemon 
+# Pokemon Team
 
 ## Blastoise
     
@@ -18,3 +18,22 @@
         Pistola de Agua 
         Mordisco
         Proteccion 
+        
+## Jolteon 
+
+    Lvl: 40 
+    Naturaleza: Huraña
+    PS: 103
+    Atk: 74
+    Def: 48
+    At. Esp: 99
+    Def. Esp: 87
+    Speed: 135
+    
+    Habilidad: Absorber Elec. 
+    
+    Ataques:
+        Bola sombra
+        Doble Patada
+        Onda Voltio
+        At. RApido
