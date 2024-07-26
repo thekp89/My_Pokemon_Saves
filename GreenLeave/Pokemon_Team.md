@@ -80,4 +80,42 @@
         Mordisco
         Corte
         
-## 
+## Snorlax 
+
+    Lvl: 40
+    Naturaleza: Afable
+    PS: 179
+    Atk: 103
+    Def: 53
+    At. Esp: 73
+    Def. Esp: 103
+    Speed: 33
+    
+    Objeto: 
+    Habilidad: Sebo
+    
+    Ataques:
+        Golpe Cuerpo
+        Bostezo
+        Descanso
+        Ronquido
+        
+## Magmar
+
+    Lv:40
+    Naturaleza: Huraña
+    PS: 113
+    Atk: 102
+    Def:47
+    At. Esp: 91
+    Def. Esp: 79
+    Speed:83
+    
+    Objeto:
+    Habilidad: Cuerpo llama
+    
+    Ataques: 
+        Polucion
+        Puño Fuego
+        Lanzallamas
+        Dia Soleado
